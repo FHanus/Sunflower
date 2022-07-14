@@ -1,4 +1,4 @@
-# Solar tracker project - private
+# Solar tracker project
 ***Authors: Filip Hanus, Daisy Bristow, Jan Rehak - UNIVERSITY OF THE WEST OF ENGLAND - UWE BRISTOL***
 
 __Built as a free time activity, short-term project__     
